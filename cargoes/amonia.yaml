@@ -1,0 +1,17 @@
+abbreviation: AM
+available: false
+classes: 320
+colour: 52
+id: 0
+label: AMON
+longName: amonia
+name: AMONIA
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/amonia.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

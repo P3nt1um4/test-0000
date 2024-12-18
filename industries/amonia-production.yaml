@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- AMON
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: Amonia production
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
